@@ -1,4 +1,4 @@
-# flint
+# 🔥flint
 
 A firestarter for webapps
 
