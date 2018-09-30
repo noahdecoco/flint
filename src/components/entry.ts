@@ -1,4 +1,4 @@
-const title: string = "flint";
+const title: string = "🔥 flint";
 const subtitle: string = "A firestarter for webapps";
 
 const h1: HTMLElement = document.createElement("h1");
