@@ -9,5 +9,5 @@ app.listen(port, () => {
 
 app.get("/", (req, res) => {
   res.send(`<p>🔥 Flint server is standing by.</p>
-  <p><a href="http://localhost:8080/">Frontend on port 8080</a></p>`);
+  <p><a href="http://localhost:8080/">Client running on port 8080</a></p>`);
 });

@@ -3,7 +3,7 @@ export class SplashScreenComponent {
     const h1Content: string = "🔥 flint";
     const p1Content: string = "A firestarter for webapps";
     const p2Content: string =
-      "<a href='http://localhost:3000/'>Server listening on port 3000</a>";
+      "<a href='http://localhost:3000/'>Server running on port 3000</a>";
 
     const h1: HTMLElement = document.createElement("h1");
     h1.innerHTML = h1Content;
